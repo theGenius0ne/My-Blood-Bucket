@@ -9,8 +9,8 @@
 <img src = "https://user-images.githubusercontent.com/56845958/126060327-6f718cbb-4ad1-45dd-b228-197ad27ab340.gif" width = "300" height = "500"/>
 </p>
 
--Provides the details of currently running nearby blood donation campaigns and promote awareness. 
--Provides a platform for users to be able to communicate in case of emergencies with the help of a community post.
+Provides the details of currently running nearby blood donation campaigns and promote awareness. <br />
+Provides a platform for users to be able to communicate in case of emergencies with the help of a community post.
 
 <p float = "left">
 <img src="https://user-images.githubusercontent.com/56845958/126060506-7d1e5766-f642-4658-b45c-f171de804036.gif" width="300" height="500"/>&emsp;
